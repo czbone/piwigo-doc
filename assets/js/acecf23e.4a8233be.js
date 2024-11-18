@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpiwigo_doc=self.webpackChunkpiwigo_doc||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/piwigo-doc/blog","blogTitle":"Blog","authorsListPath":"/piwigo-doc/blog/authors"}')}}]);
