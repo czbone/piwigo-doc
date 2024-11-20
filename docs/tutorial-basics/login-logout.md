@@ -2,17 +2,19 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# ログイン
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+画像の管理画面を表示させるには管理権限が必要です。**ログイン**を行います。
+
+画面の右上の**ログイン**のリンクからログイン画面を表示します。
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`
 - `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
 
-## Create your first React Page
+## ログアウト
 
-Create a file at `src/pages/my-react-page.js`:
+管理画面を終了するには**ログアウト**を行います。
 
 ```jsx title="src/pages/my-react-page.js"
 import React from 'react';
