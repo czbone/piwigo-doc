@@ -4,42 +4,29 @@ sidebar_position: 1
 
 # ログイン
 
-画像の管理画面を表示させるには管理権限が必要です。**ログイン**を行います。
+**画像の管理**を行うには**管理権限**が必要です。ログイン操作を行います。  
+画面の右上の**ログインのリンク**から**ログイン画面**に遷移します。
 
-画面の右上の**ログイン**のリンクからログイン画面を表示します。
+![トップページ](/img/top_page.png)
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## ログイン画面
+
+**ユーザ名**と**パスワード**を入力し、**送信**ボタンを押します。
+
+![ログイン](/img/login.png)
+
+## ログイン状態の表示
+
+ログイン状態は画面右上に**Admin**のリンクが表示されているかどうかで判断します。  
+管理権限がある場合は**Admin**が表示されます。
+
+**Admin**をクリックすると**管理画面**に遷移します。
+
+![ログアウト](/img/logined.png)
 
 ## ログアウト
 
-管理画面を終了するには**ログアウト**を行います。
+**画像の管理**を終了するには**管理画面**からログアウト操作を行います。
+画面の右上の**ログアウト**をクリックします。
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+![ログアウト](/img/logout.png)
