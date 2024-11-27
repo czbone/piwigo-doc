@@ -4,13 +4,23 @@ sidebar_position: 1
 
 # チュートリアル - はじめに
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Piwigo**は、Web上で多数の画像が閲覧できる**フォトギャラリーシステム**です。
 
-## Getting Started
+**Piwigo**の**画像管理**の基本操作を５分間で理解するチュートリアルを始めます。
 
-Get started by **creating a new site**.
+## Piwigoのページ構成
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Piwigoは
+
+### フロント画面
+
+![フロントページ1](/img/frontpage1.png)
+![フロントページ2](/img/frontpage2.png)
+![フロントページ3](/img/frontpage3.png)
+
+### 管理画面
+
+
 
 ### What you'll need
 
