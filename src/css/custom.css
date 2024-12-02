@@ -32,3 +32,7 @@
 .container img {
   border:2px solid #666;
 }
+
+img.no-border {
+  border:0;
+}
