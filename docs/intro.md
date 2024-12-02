@@ -32,4 +32,5 @@ Piwigoには、画像を閲覧するための**フロント画面**と画像を�
 画像をまとめる単位が**アルバム**です。画像ファイルを**フォルダ的**に収める入れ物です。  
 アルバムの中にアルバムを配置して、アルバムの**階層構造**をつくることもできます。
 
-<img src="../img/album_structure.png" alt="アルバム階層図" class="no-border" />
+<img src="/img/album_structure.png" alt="アルバム階層図" class="no-border" />
+<img src={require('/img/album_structure.png').default} alt="アルバム階層図" class="no-border" />
