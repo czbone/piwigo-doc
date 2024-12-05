@@ -16,9 +16,9 @@ sidebar_position: 2
 
 **管理機能メニュー**の「**アルバム>管理**」をクリックし、アルバム管理画面に遷移します。
 
-![画像アップロードの選択](/img/add_album0.png)
+![ダッシュボード画面](/img/add_album0.png)
 
-![画像アップロードの選択](/img/add_album1.png)
+![アルバム管理画面](/img/add_album1.png)
 
 ## アルバムの追加
 
