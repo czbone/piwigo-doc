@@ -37,6 +37,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          sidebarCollapsible: false,  // サイドバーの折り畳みを無効にする
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:  // 「このページを編集」リンクは表示しない

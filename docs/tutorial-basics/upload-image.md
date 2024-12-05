@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 画像のアップロード
@@ -10,7 +10,7 @@ sidebar_position: 2
 
 画像をアップロードする**アルバム**を決めておきます。
 
-**[例]** ここでは「[チュートリアル - はじめに](http://localhost:3000/piwigo-doc/docs/intro)」の**アルバム階層**の「動物」を選択するとします。
+**[例]** ここでは「[チュートリアル - はじめに](http://localhost:3000/piwigo-doc/docs/intro)」の**アルバム階層**の「動物」を選択します。
 
 ## 管理画面にログイン
 
