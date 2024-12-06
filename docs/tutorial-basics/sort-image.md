@@ -6,6 +6,8 @@ sidebar_position: 4
 
 アルバム内の画像の並び順を変更します。
 
+画像の並び順とは**フロント画面**でアルバムを選択したときに表示される画像の並び順序です。
+
 ![画像一覧](/img/sort_image1.png)
 
 ## 管理画面にログイン
@@ -20,12 +22,26 @@ sidebar_position: 4
 
 ![アルバム管理画面](/img/add_album1.png)
 
-![画像一覧](/img/sort_image2.png)
+目的のアルバムをクリックします。
 
-![画像一覧](/img/sort_image3.png)
+![アルバム編集画面](/img/sort_image2.png)
 
-![画像一覧](/img/sort_image4.png)
+「写真のランクを管理する」のタブをクリックすると、画像一覧の画面に遷移します。
 
-![画像一覧](/img/sort_image5.png)
+![画像の並び順設定画面](/img/sort_image3.png)
 
-![画像一覧](/img/sort_image6.png)
+画像をマウスでドラッグして位置を変更します。
+
+![画像の並び順設定画面](/img/sort_image4.png)
+
+「送信」ボタンを押して変更を確定します。
+
+![画像の並び順設定画面](/img/sort_image5.png)
+
+画像の並び順が変更されました。
+
+![画像の並び順設定画面](/img/sort_image6.png)
+
+**フロント画面**でも変更されています。
+
+![画像一覧並び変え後](/img/sort_image7.png)
